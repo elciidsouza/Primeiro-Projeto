@@ -1,5 +1,10 @@
 /*Primeiro-Projeto
 Jogo da velha
+
+Alunos: Yuri Sanchez Silva Sobral
+        Silvio da Silva Junior
+        Elcid Seabra de Souza Filho
+
 */
 
 package projetojv;
